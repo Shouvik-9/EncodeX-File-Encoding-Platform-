@@ -82,9 +82,11 @@
 
 ```bash
 Directory structure:
-└── shouvik-9-qr-generator/
+└── shouvik-9-encodex-file-encoding-platform-/
+    ├── README.md
     ├── index.html
     └── style.css
+
 ```
 ---
 
