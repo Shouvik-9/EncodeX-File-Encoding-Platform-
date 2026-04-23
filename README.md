@@ -85,3 +85,40 @@ Directory structure:
 └── shouvik-9-qr-generator/
     ├── index.html
     └── style.css
+```
+---
+
+## 🗂️ Project Summery
+```bash
+Repository: shouvik-9/encodex-file-encoding-platform-
+Commit: e5bf435b69511f684a18ca9f2d903ade22b32468
+Files analyzed: 3
+
+Estimated tokens: 2.7k
+```
+---
+
+# 🌐 BY DEFAULT INTERFACE
+<img width="1917" height="918" alt="Image" src="https://github.com/user-attachments/assets/74671327-ebf5-4e7c-86b7-4de2aae80479" />
+
+# ✏️ ADDING TASKS
+<img width="1917" height="918" alt="Image" src="https://github.com/user-attachments/assets/5ee8d7a7-75f4-429f-8924-679eac1db67d" />
+
+# 👉 CONCLUSION 
+
+- The QR Code Generator (EncodeX) provides a fast and user-friendly way to generate QR codes from text or URLs instantly.  
+- With features like download, copy, and share, it goes beyond basic QR tools and enhances usability.  
+- Built using HTML, CSS, JavaScript, and API integration, it delivers a smooth and responsive experience.  
+- This project showcases practical frontend development skills and real-world API usage.
+
+---
+
+# 💬 Author:- **Shouvik Dutta**
+
+# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> [**GITHUB**](https://github.com/Shouvik-9)
+
+# <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> [**LINKEDIN**](https://www.linkedin.com/in/shouvik-dutta-990730267/)
+
+# 🙏 THANK YOU
+
+---
