@@ -28,12 +28,15 @@
 
 ---
 
-# 🧠 TECHNOLOGIES USED
+## 🧩 Tech Stack
 
-- HTML5 – Structure of the application  
-- CSS3 – Styling and animations  
-- JavaScript (Vanilla JS) – Handles logic and interactions  
-- QR Code API – Generates QR dynamically  
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript(Vanilla JS) |
+| **Styling & UI** | CSS Animations, Responsive Design |
+| **Functionality** | Dynamic QR Code Generation, DOM Manipulation |
+| **API Integration** | QR Code API |
+| **Tools** | VS Code, Git, GitHub|
 
 ---
 
@@ -87,6 +90,20 @@ Directory structure:
     ├── index.html
     └── style.css
 
+```
+---
+
+### 🧱 Clone the Repository
+```
+git clone https://github.com/Shouvik-9/EncodeX-File-Encoding-Platform-.git
+cd EncodeX-File-Encoding-Platform
+```
+
+## ⚡ How to Run Locally
+### 🖥️ Setup
+```
+npm install
+npm run server
 ```
 ---
 
